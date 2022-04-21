@@ -27,7 +27,7 @@ body {
 }
 
 #list li {
-  border: 1px solid #ddd;
+  border: 1px solid rgb(255, 152, 152);
   padding: 12px;
   background-color: #f6f6f6;
   display: block;
